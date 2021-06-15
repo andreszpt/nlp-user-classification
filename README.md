@@ -7,3 +7,5 @@ The code is available in Jupyter Notebooks, and results of the simulations can b
 
 - Training data: "Stanford/Google Drive link", http://help.sentiment140.com/for-students
 - GloVe embeddings: "glove.6B.zip", https://nlp.stanford.edu/projects/glove/
+
+The notebooks were executed using an Anaconda environment, based on Python 3.6 and Tensorflow 1.15, due to compatibility reasons. The full environment can be found in the environment.yml file.
